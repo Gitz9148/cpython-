@@ -1,0 +1,12 @@
+[
+  {
+    "directory": "/Users/furkancanisci/cpythonwrapper",
+    "command": "clang++ -std=c++14 -fPIC -O3 -Wall -DVERSION_INFO=\\\"dev\\\" -I/Users/furkancanisci/cpythonwrapper/venv/lib/python3.13/site-packages/pybind11/include -I/opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13/include/python3.13 -c pybind_wrapper.cpp",
+    "file": "pybind_wrapper.cpp"
+  },
+  {
+    "directory": "/Users/furkancanisci/cpythonwrapper",
+    "command": "clang++ -std=c++14 -fPIC -O3 -Wall -DVERSION_INFO=\\\"dev\\\" -I/Users/furkancanisci/cpythonwrapper/venv/lib/python3.13/site-packages/pybind11/include -I/opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13/include/python3.13 -c cpp_functions.cpp",
+    "file": "cpp_functions.cpp"
+  }
+]
